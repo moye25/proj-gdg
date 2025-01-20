@@ -1,7 +1,8 @@
 # Project: Course Helper Application
 
 ## Overview
-This is a web application for managing courses, including features to create, update, and delete course entries. The app is built with React, Supabase, and utilizes TypeScript for type safety.
+This is a web application for managing courses, including features to create, update, and delete course entries. The app is built with HTML , CSS , Javascript , React.js, Next.js in Node.js , Express.js ,
+React, Supabase, Vercel and utilizes TypeScript for type safety.
 
 ## Features
 - **Course Management**: Create, edit, and delete courses.
