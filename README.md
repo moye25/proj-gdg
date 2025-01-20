@@ -1,4 +1,4 @@
-# Project: Course Management Application
+# Project: Course Helper Application
 
 ## Overview
 This is a web application for managing courses, including features to create, update, and delete course entries. The app is built with React, Supabase, and utilizes TypeScript for type safety.
@@ -120,12 +120,5 @@ The project follows a modular structure for better scalability and maintainabili
 - **TailwindCSS**: CSS framework for styling.
 - **Vite**: Fast build tool.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
-## Contributions
-Contributions are welcome! Please follow the guidelines in the `CONTRIBUTING.md` file.
-
-## Contact
-For any questions or issues, please contact [Your Name/Team Name] at [Your Email Address].
 
